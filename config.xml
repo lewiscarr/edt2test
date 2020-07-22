@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.tituslearning.edtmlearning"
-        versionCode = "38002"
-        android-versionCode="38002"
-        version   = "3.7.7">
+        versionCode = "38008"
+        android-versionCode="38008"
+        version   = "3.7.8">
     <name>Excelsior on Demand</name>
 
     <description>
